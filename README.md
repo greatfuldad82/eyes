@@ -12,7 +12,7 @@ eye movement exercise
     
  **instructions:**
     
-    save all files locally on your machine.  open google chrome and simply drag and drop the html element into your google console.  
+    save files .css .html locally on your machine.  open google chrome and simply drag and drop the html element into your google console.  
     
     the animation will then appear and you will see the eyes following your mouse movements. 
     
